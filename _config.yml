@@ -109,7 +109,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://alonshrestha.com.np
 
 compress_html:
     ignore:
