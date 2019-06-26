@@ -8,9 +8,9 @@ tag:
 - elements
 star: true
 category: blog
-author: Alon Shrestha
+author: alonshrestha
 description: Mlalal lalalal lalala
 ---
 
 
-k cha ta guys 
+k cha ta guys
