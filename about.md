@@ -50,7 +50,7 @@ A Computer Science Student with experienced of associate IT Manager at <a href="
 	</li>
 </ul>
 
-<h2>Edudation</h2>
+<h2>Education</h2>
 <ul>
 
 <li><h4>Deerwalk Institute Of Technology</h4>
