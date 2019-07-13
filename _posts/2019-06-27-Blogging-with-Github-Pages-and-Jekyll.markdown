@@ -19,7 +19,7 @@ I choose Github Pages and Jekyll for hosting my pages. And didn't believe the se
 [Jekyll](https://jekyllrb.com/){:target="_blank"} is a markdown language used for generating a static page and Github Pages is the static page hosting media. If you are posting on different media this helps you to migrate your blogs without any cost and lost in Github Pages.
 
 ## Using Github Pages
-#### Pors
+#### Pros
 - [Free of cost](#)
 - [Security and Reliability](#)
 - [Use Custom Domain](#)

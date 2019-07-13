@@ -6,7 +6,7 @@ layout: page
 
 <p>
 
-A Computer Science Student with experienced of associate IT Manager at <a href="http://deerwalk.edu.np" target="_blank">Deerwalk Institute Of Technology</a> consultant with building, managing and troubleshooting IT systems for clients of various sizes and organization fundamental.</p>
+A Computer Science Student with experience of associate IT Manager at <a href="http://deerwalk.edu.np" target="_blank">Deerwalk Institute Of Technology</a> consultant with building, managing and troubleshooting IT systems for clients of various sizes and organization fundamental.</p>
 
 <h2>Experience</h2>
 

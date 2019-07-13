@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74d2df3-1646-46d4-95b0-2315f25ce91a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ee5ac532cd19b5f119c2456e68319951b5667928/general.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/ee5ac532cd19b5f119c2456e68319951b5667928/general.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/ee5ac532cd19b5f119c2456e68319951b5667928/variables.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/ee5ac532cd19b5f119c2456e68319951b5667928/variables.sassc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/general.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/general.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/base/variables.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/variables.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/First-Blog-On-Jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/First-Blog-On-Jekyll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,24 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="741">
-                <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <first_editor relative-caret-position="26">
+                <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-06-22-First-Blog-On-Jekyll.markdown">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="208">
+                <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,6 +94,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-06-27-Blog-with-Github-Pages-and-Jekyll.markdown" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown" />
+        <option value="$PROJECT_DIR$/about.md" />
       </list>
     </option>
   </component>
@@ -163,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563021533628</updated>
-      <workItem from="1563021538196" duration="3673000" />
+      <workItem from="1563021538196" duration="4449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3673000" />
+    <option name="totallyTimeSpent" value="4449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="796" y="24" width="1124" height="1056" extended-state="4" />
@@ -261,8 +254,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="741">
-            <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <first_editor relative-caret-position="26">
+            <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
