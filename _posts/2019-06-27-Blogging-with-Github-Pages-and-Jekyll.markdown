@@ -12,7 +12,7 @@ author: alonshrestha
 ---
 
 This is my first blog with [Github Pages](https://pages.github.com/){:target="_blank"}. I used to have tech-related blogs and online portfolio on [WordPress](https://wordpress.com/){:target="_blank"} which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain _alonshrestha.com.np_. I could have done this using Wordpress or other media donating some money.
-Doing research on such media that I wanted and came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.
+Doing research on such media and came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.
 
 I choose Github Pages and Jekyll for hosting my pages and didn't believe the secret that [WordPress](https://wordpress.com/){:target="_blank"} is the king when it comes to blog and hosting.
 

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a74d2df3-1646-46d4-95b0-2315f25ce91a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="273">
-                <caret line="18" column="192" selection-start-line="18" selection-start-column="192" selection-end-line="18" selection-end-column="192" />
+              <first_editor relative-caret-position="169">
+                <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -157,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563021533628</updated>
-      <workItem from="1563021538196" duration="5934000" />
+      <workItem from="1563021538196" duration="6093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5934000" />
+    <option name="totallyTimeSpent" value="6093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="796" y="24" width="1124" height="1056" extended-state="4" />
@@ -265,8 +263,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-06-27-Blogging-with-Github-Pages-and-Jekyll.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="273">
-            <caret line="18" column="192" selection-start-line="18" selection-start-column="192" selection-end-line="18" selection-end-column="192" />
+          <first_editor relative-caret-position="169">
+            <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
