@@ -3,7 +3,7 @@ name: Alon Shrestha
 bio: A Computer Science Student
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology related
 
 # if it's an external image, update below for true
 # better with square images
@@ -108,6 +108,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://alonshrestha.com.np
