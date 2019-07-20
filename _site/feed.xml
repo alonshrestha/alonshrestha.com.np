@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-20T20:21:39+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T00:22:56+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Browse &lt;a href=&quot;http://&quot;&gt;https://register.com.np/ &lt;/a&gt; and &lt;strong&gt;“Search”&lt;/strong&gt; for the domain you want.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img1.png&quot; alt=&quot;Image1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; If the status of the searched domain is &lt;strong&gt;“Available”&lt;/strong&gt; then click &lt;strong&gt;“Register now”&lt;/strong&gt; to register the domain.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img2.png&quot; alt=&quot;image2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; You will visit to login page. &lt;strong&gt;Sign in&lt;/strong&gt; with your account or click &lt;strong&gt;Create user&lt;/strong&gt; to have new a account.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img3.png&quot; alt=&quot;image3&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Jump to Step 6 if you can sign in, else continue.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; A user detail form will apprear. Fill the form will valid data.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img4.png&quot; alt=&quot;image4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Activate your email.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img5.png&quot; alt=&quot;image5&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6:&lt;/strong&gt; Now you will be again redirect to login page. Enter you credential and &lt;strong&gt;Sign in&lt;/strong&gt;.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img6.png&quot; alt=&quot;image6&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 7:&lt;/strong&gt; You will see a domain request form. Enter primary and secondary name server that you are going to use.&lt;/p&gt;
+
+&lt;p&gt;eg: 000webhosting&lt;/p&gt;
+
+&lt;p&gt;Primary Name Server: ns01.000webhost.com&lt;/p&gt;
+
+&lt;p&gt;Secondary Name Server: ns02.000webhost.com 
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img7.png&quot; alt=&quot;image7&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The above used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 8:&lt;/strong&gt; Fill the administrative contact form with valid data and submit it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 9:&lt;/strong&gt; Now submit your document eg:licence, citizen card, passport and cover letter in .jpg form with less than 300kb.
+&lt;img src=&quot;/assets/images/blog/2019-07-20/img9.png&quot; alt=&quot;image9&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 10:&lt;/strong&gt; You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see similar image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img10.png&quot; alt=&quot;image10&quot; /&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="free" /><category term="domain" /><category term=".com.np" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">Step 1: Browse https://register.com.np/ and “Search” for the domain you want.</summary></entry><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
 Doing research on such media, I came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.&lt;/p&gt;
 
 &lt;p&gt;I choose Github Pages and Jekyll for hosting my pages and didn’t believe the secret that &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; is the king when it comes to blog and hosting.&lt;/p&gt;
