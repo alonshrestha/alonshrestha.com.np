@@ -14,44 +14,95 @@ category: blog
 author: alonshrestha
 ---
 
-**Step 1:** Browse [https://register.com.np/ ](http://) and **"Search"** for the domain you want.
-![Image1](/assets/images/blog/2019-07-20/img1.png)
+Domain **.com.np** is the property that you can get in Nepal for free. Do you believe this? Okay, I will make this real for you.
 
-**Step 2:** If the status of the searched domain is **"Available"** then click **"Register now"** to register the domain.
-![image2](/assets/images/blog/2019-07-20/img2.png)
+[.np](https://en.wikipedia.org/wiki/.np){:target="_blank"} is the country top-level domain in Nepal administered by [Mercantile Communications Pvt. Ltd.](http://mos.com.np/){:target="_blank"} Registration of .np with secondary level like **.com.np**, **edu.np**, **org.np** can be registered by **Neplease**, **Non-Resident Neplease** and even by the **foreigners** having Neplease residential.  
 
-**Step 3:** You will visit to login page. **Sign in** with your account or click **Create user** to have new a account.
-![image3](/assets/images/blog/2019-07-20/img3.png)
+You can have your personal name domain representing your  brand, organization, service etc. I have used my name as domain ([alonshrestha.com.np](http://alonshrestha.com.np/){:target="_blank"}) for my personal and blog.
+
+## Requirements 
+  
+ > - Documents (scanned copy of your citizen card or licence or passport)
+
+  > -  Coverletter
+ 
+   > - Gmail account
+
+## Procedure
+
+#### **Step 1:** Check if the domain is availabel.
+
+Browse [https://register.com.np/ ](https://register.com.np/ ){:target="_blank"} and **"Search"** for the domain you want.
+
+![](/assets/images/blog/2019-07-20/img1.png)
+
+#### **Step 2:** Register domain. 
+ 
+If the status of the searched domain is **"Available"** then click **"Register now"** to register the domain.
+
+![](/assets/images/blog/2019-07-20/img2.png)
+
+#### **Step 3:** Sign in/Create user
+
+You will visit to login page. **"Sign in"** with your account or click **"Create user"** to have new a account.
+
+![](/assets/images/blog/2019-07-20/img3.png)
+
 ```
 Jump to Step 6 if you can sign in, else continue.
 ```
 
-**Step 4:** A user detail form will apprear. Fill the form with valid data.
-![image4](/assets/images/blog/2019-07-20/img4.png)
+#### **Step 4:** Register account
 
-**Step 5:** Activate your email.
-![image5](/assets/images/blog/2019-07-20/img5.png)
+A user detail form will apprear. Fill the form with valid data.
 
-**Step 6:** Now you will be again redirect to login page. Enter you credential and **Sign in**.
-![image6](/assets/images/blog/2019-07-20/img6.png)
+![](/assets/images/blog/2019-07-20/img4.png)
 
-**Step 7:** You will see a domain request form. Enter primary and secondary name server that you are going to use. 
+#### **Step 5:** Activate your email.
+
+You will receive a verfication message in you gmail. 
+
+![](/assets/images/blog/2019-07-20/img5.png)
+
+Open your gmail and verify your gmail account.
+
+![](/assets/images/blog/2019-07-20/img11.png)
+
+
+#### **Step 6:** Sign In
+
+Now you will be again redirect to login page. Enter you credential and **"Sign in"**.
+
+![](/assets/images/blog/2019-07-20/img6.png)
+
+#### **Step 7:** Domain Registration
+
+You will see a domain request form. Enter primary and secondary name server that you are going to use. 
 
 eg: 000webhosting 
 
 Primary Name Server: ns01.000webhost.com
 
 Secondary Name Server: ns02.000webhost.com 
-![image7](/assets/images/blog/2019-07-20/img7.png)
+
+![](/assets/images/blog/2019-07-20/img7.png)
+
 ```
 The above used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
 ```
 
-**Step 8:** Fill the administrative contact form with valid data and submit it.
+#### **Step 8:** Administrative Contact
 
-**Step 9:** Now submit your document eg:licence, citizen card, passport and cover letter in .jpg format with less than 300Kb.
-![image9](/assets/images/blog/2019-07-20/img9.png)
+Fill the administrative contact form with valid data and submit it.
 
-**Step 10:** You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see similar image below.  
+#### **Step 9:** Submit your Personal Document
 
-![image10](/assets/images/blog/2019-07-20/img10.png)
+Now submit your document eg:licence, citizen card, passport and cover letter in .jpg format with less than 300Kb.
+
+![](/assets/images/blog/2019-07-20/img9.png)
+
+#### **Step 10:** Complete Registration
+
+You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see similar image below.  
+
+![](/assets/images/blog/2019-07-20/img10.png)
