@@ -26,7 +26,7 @@ author: alonshrestha
 Jump to Step 6 if you can sign in, else continue.
 ```
 
-**Step 4:** A user detail form will apprear. Fill the form will valid data.
+**Step 4:** A user detail form will apprear. Fill the form with valid data.
 ![image4](/assets/images/blog/2019-07-20/img4.png)
 
 **Step 5:** Activate your email.
@@ -49,7 +49,7 @@ The above used server name in the picture is of [cloudflare](https://www.cloudfl
 
 **Step 8:** Fill the administrative contact form with valid data and submit it.
 
-**Step 9:** Now submit your document eg:licence, citizen card, passport and cover letter in .jpg form with less than 300kb.
+**Step 9:** Now submit your document eg:licence, citizen card, passport and cover letter in .jpg format with less than 300Kb.
 ![image9](/assets/images/blog/2019-07-20/img9.png)
 
 **Step 10:** You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see similar image below.  
