@@ -1,8 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T09:59:46+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Do you believe this? Okay, I will make this real for you.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T10:40:20+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open source application for linux which makes easy to create live backup images of your system and users saved configurations. People who are new to linux make mistakes with configuration of system root files and as result reach to system crash. In this case SystemBack is an helpful application for backing up and restoring your system in previous state.&lt;/p&gt;
+
+&lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Live boot image.&lt;/li&gt;
+  &lt;li&gt;Easy installation and fast recovery.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;disadvantages&quot;&gt;Disadvantages:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If  your.sblive file is more than 4 GB then, cannot be converted to ISO file.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt;sudo add-apt-repository ppa:nemh/systemback &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get update &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get install systemback &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use-&quot;&gt;How to use ?&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;After installation, open application by searching in windows or simply typing systemback in terminal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enter your password and press OK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/3.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now go to Live system create.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/4.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Click to Create new for creating system image.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/5.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/6.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your system gets backup with live image. (Time depends on you system size)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/7.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;After that an .sblive file is being created i.e your system image.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/8.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Select image file and click to convert to ISO.&lt;/li&gt;
+  &lt;li&gt;You can convert .sblive file to ISO or can burn to CD/DVD or boot in pendrive direct.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Note: .sblive cannot be converted to ISO if its size is more than 4GB.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now you can boot your system for installation and restore to previous state.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">SystemBack is an open source application for linux which makes easy to create live backup images of your system and users saved configurations. People who are new to linux make mistakes with configuration of system root files and as result reach to system crash. In this case SystemBack is an helpful application for backing up and restoring your system in previous state.</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Do you believe this? If you don’t, I will make this real for you.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.np&quot; target=&quot;_blank&quot;&gt;.np&lt;/a&gt; is the country top-level domain in Nepal administered by &lt;a href=&quot;http://mos.com.np/&quot; target=&quot;_blank&quot;&gt;Mercantile Communications Pvt. Ltd.&lt;/a&gt; Registration of .np with secondary level like &lt;strong&gt;.com.np&lt;/strong&gt;, &lt;strong&gt;edu.np&lt;/strong&gt;, &lt;strong&gt;org.np&lt;/strong&gt; can be registered by &lt;strong&gt;Neplease&lt;/strong&gt;, &lt;strong&gt;Non-Resident Neplease&lt;/strong&gt; and even by the &lt;strong&gt;foreigners&lt;/strong&gt; having Neplease residential.&lt;/p&gt;
 
-&lt;p&gt;You can have your personal name domain representing your  brand, organization, service etc. I have used my name as domain (&lt;a href=&quot;http://alonshrestha.com.np/&quot; target=&quot;_blank&quot;&gt;alonshrestha.com.np&lt;/a&gt;) for my personal and blog.&lt;/p&gt;
+&lt;p&gt;You can have your personal name domain representing your  brand, organization, service etc. I have used my name as domain (&lt;a href=&quot;http://alonshrestha.com.np/&quot; target=&quot;_blank&quot;&gt;alonshrestha.com.np&lt;/a&gt;) for my personal and blog. Follow the procedure below if you need one.&lt;/p&gt;
 
 &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 
@@ -98,7 +171,7 @@
 
 &lt;p&gt;You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see similar image below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="free" /><category term="domain" /><category term=".com.np" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">Domain .com.np is the property that you can get in Nepal for free. Do you believe this? Okay, I will make this real for you.</summary></entry><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="free" /><category term="domain" /><category term=".com.np" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">Domain .com.np is the property that you can get in Nepal for free. Do you believe this? If you don’t, I will make this real for you.</summary></entry><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
 Doing research on such media, I came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.&lt;/p&gt;
 
 &lt;p&gt;I choose Github Pages and Jekyll for hosting my pages and didn’t believe the secret that &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; is the king when it comes to blog and hosting.&lt;/p&gt;

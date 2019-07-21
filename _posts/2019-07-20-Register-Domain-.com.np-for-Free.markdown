@@ -14,11 +14,11 @@ category: blog
 author: alonshrestha
 ---
 
-Domain **.com.np** is the property that you can get in Nepal for free. Do you believe this? Okay, I will make this real for you.
+Domain **.com.np** is the property that you can get in Nepal for free. Do you believe this? If you don't, I will make this real for you.
 
 [.np](https://en.wikipedia.org/wiki/.np){:target="_blank"} is the country top-level domain in Nepal administered by [Mercantile Communications Pvt. Ltd.](http://mos.com.np/){:target="_blank"} Registration of .np with secondary level like **.com.np**, **edu.np**, **org.np** can be registered by **Neplease**, **Non-Resident Neplease** and even by the **foreigners** having Neplease residential.  
 
-You can have your personal name domain representing your  brand, organization, service etc. I have used my name as domain ([alonshrestha.com.np](http://alonshrestha.com.np/){:target="_blank"}) for my personal and blog.
+You can have your personal name domain representing your  brand, organization, service etc. I have used my name as domain ([alonshrestha.com.np](http://alonshrestha.com.np/){:target="_blank"}) for my personal and blog. Follow the procedure below if you need one.
 
 ## Requirements 
   

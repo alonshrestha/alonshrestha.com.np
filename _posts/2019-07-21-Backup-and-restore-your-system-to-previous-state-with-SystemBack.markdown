@@ -1,0 +1,68 @@
+---
+title: Backup and Restore your Linux System to the Previous State with "SystemBack"
+layout: post
+date: '2019-07-21'
+headerImage: true
+tag:
+- system back
+- ubuntu
+- linux
+- backup
+- restore
+- jekyll
+- gh-pages
+star: true
+category: blog
+author: alonshrestha
+---
+
+**SystemBack** is an open source application for linux which makes easy to create live backup images of your system and users saved configurations. People who are new to linux make mistakes with configuration of system root files and as result reach to system crash. In this case SystemBack is an helpful application for backing up and restoring your system in previous state.
+
+### Advantages:
+
+-  Live boot image.
+-  Easy installation and fast recovery.
+
+### Disadvantages:
+- If  your.sblive file is more than 4 GB then, cannot be converted to ISO file.
+
+#### Install SystemBack in Ubuntu
+ - <span class="evidence">sudo add-apt-repository ppa:nemh/systemback </span>
+- <span class="evidence"> sudo apt-get update </span>
+-  <span class="evidence"> sudo apt-get install systemback </span>
+
+![](/assets/images/blog/2019-07-21/1.PNG)
+
+####  How to use ? 
+- After installation, open application by searching in windows or simply typing systemback in terminal.
+
+![](/assets/images/blog/2019-07-21/2.PNG)
+
+- Enter your password and press OK.
+
+![](/assets/images/blog/2019-07-21/3.PNG)
+
+- Now go to Live system create.
+
+![](/assets/images/blog/2019-07-21/4.PNG)
+
+- Click to Create new for creating system image.
+
+![](/assets/images/blog/2019-07-21/5.PNG)
+
+![](/assets/images/blog/2019-07-21/6.PNG)
+
+- Your system gets backup with live image. (Time depends on you system size)
+
+![](/assets/images/blog/2019-07-21/7.PNG)
+
+- After that an .sblive file is being created i.e your system image.
+
+![](/assets/images/blog/2019-07-21/8.PNG)
+
+- Select image file and click to convert to ISO.
+- You can convert .sblive file to ISO or can burn to CD/DVD or boot in pendrive direct.
+
+> *Note: .sblive cannot be converted to ISO if its size is more than 4GB.*
+
+- Now you can boot your system for installation and restore to previous state.
