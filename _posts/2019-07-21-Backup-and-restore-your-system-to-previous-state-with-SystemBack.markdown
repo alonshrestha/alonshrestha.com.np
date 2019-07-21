@@ -16,7 +16,7 @@ category: blog
 author: alonshrestha
 ---
 
-**SystemBack** is an open source application for linux which makes easy to create live backup images of your system and users saved configurations. People who are new to linux make mistakes with configuration of system root files and as result reach to system crash. In this case SystemBack is an helpful application for backing up and restoring your system in previous state.
+**SystemBack** is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.
 
 ### Advantages:
 
@@ -24,7 +24,7 @@ author: alonshrestha
 -  Easy installation and fast recovery.
 
 ### Disadvantages:
-- If  your.sblive file is more than 4 GB then, cannot be converted to ISO file.
+- If your .sblive file is more than 4 GB then, cannot be converted to ISO file.
 
 #### Install SystemBack in Ubuntu
  - <span class="evidence">sudo add-apt-repository ppa:nemh/systemback </span>
@@ -33,8 +33,8 @@ author: alonshrestha
 
 ![](/assets/images/blog/2019-07-21/1.PNG)
 
-####  How to use ? 
-- After installation, open application by searching in windows or simply typing systemback in terminal.
+####  How to use?
+- After installation, search application by clicking on windows or simply typing SystemBack in the terminal.
 
 ![](/assets/images/blog/2019-07-21/2.PNG)
 
@@ -46,23 +46,23 @@ author: alonshrestha
 
 ![](/assets/images/blog/2019-07-21/4.PNG)
 
-- Click to Create new for creating system image.
+- Click Create new for creating a system image.
 
 ![](/assets/images/blog/2019-07-21/5.PNG)
 
 ![](/assets/images/blog/2019-07-21/6.PNG)
 
-- Your system gets backup with live image. (Time depends on you system size)
+- Your system gets back up with a live image. (Time depends on your system size)
 
 ![](/assets/images/blog/2019-07-21/7.PNG)
 
-- After that an .sblive file is being created i.e your system image.
+- After that, a .sblive file is being created i.e your system image.
 
 ![](/assets/images/blog/2019-07-21/8.PNG)
 
-- Select image file and click to convert to ISO.
-- You can convert .sblive file to ISO or can burn to CD/DVD or boot in pendrive direct.
+- Select the image file and click to convert to ISO.
+- You can convert a .sblive file to ISO or can burn to CD/DVD or boot in Pendrive directly.
 
 > *Note: .sblive cannot be converted to ISO if its size is more than 4GB.*
 
-- Now you can boot your system for installation and restore to previous state.
+- Now you can boot your system for installation and restore to the previous state.

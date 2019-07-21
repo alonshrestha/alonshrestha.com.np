@@ -4,16 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free.markdown" line="47" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a74d2df3-1646-46d4-95b0-2315f25ce91a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Blogging-with-Github-Pages-and-Jekyll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/Register-Domain-.com.np-for-Free/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Register-Domain-.com.np-for-Free/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/projects/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a74d2df3-1646-46d4-95b0-2315f25ce91a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -72,14 +63,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-21-Backup-and-restore-your-system-to-previous-state-with-SystemBack.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="617">
-                <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+                <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/related.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -121,6 +130,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free" />
         <option value="$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-07-21-Backup-and-restore-your-system-to-previous-state-with-SystemBack.markdown" />
+        <option value="$PROJECT_DIR$/_includes/related.html" />
       </list>
     </option>
   </component>
@@ -135,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,13 +156,22 @@
             <path>
               <item name="alonshrestha.com.np" type="b2602c69:ProjectViewProjectNode" />
               <item name="alonshrestha.com.np" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alonshrestha.com.np" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alonshrestha.com.np" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alonshrestha.com.np" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alonshrestha.com.np" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,16 +218,17 @@
       <workItem from="1563640174574" duration="2113000" />
       <workItem from="1563683147236" duration="711000" />
       <workItem from="1563684509963" duration="52000" />
+      <workItem from="1563685905952" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17951000" />
+    <option name="totallyTimeSpent" value="18160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="623" y="27" width="817" height="873" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29571983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30350193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Learn" order="3" />
@@ -317,13 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -333,9 +347,6 @@
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/related.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-20-Register-Domain-.com.np-for-Free" />
     <entry file="file://$PROJECT_DIR$/_layouts/compress.html">
@@ -379,9 +390,23 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="617">
-            <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+            <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/related.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
         </state>
       </provider>
     </entry>
