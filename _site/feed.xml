@@ -1,4 +1,181 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-23T08:35:05+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T22:31:05+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+
+&lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Live boot image.&lt;/li&gt;
+  &lt;li&gt;Easy installation and fast recovery.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;disadvantages&quot;&gt;Disadvantages:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;If your .sblive file is more than 4 GB then, cannot be converted to ISO file.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt;sudo add-apt-repository ppa:nemh/systemback &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get update &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get install systemback &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;After installation, search application by clicking on windows or simply typing SystemBack in the terminal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enter your password and press OK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/3.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now go to Live system create.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/4.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Click Create new for creating a system image.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/5.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/6.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Your system gets back up with a live image. (Time depends on your system size)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/7.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;After that, a .sblive file is being created i.e your system image.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/8.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Select the image file and click to convert to ISO.&lt;/li&gt;
+  &lt;li&gt;You can convert a .sblive file to ISO or can burn to CD/DVD or boot in Pendrive directly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Note: .sblive cannot be converted to ISO if its size is more than 4GB.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Now you can boot your system for installation and restore to the previous state.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">SystemBack is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.np&quot; target=&quot;_blank&quot;&gt;.np&lt;/a&gt; is the country top-level domain in Nepal administered by &lt;a href=&quot;http://mos.com.np/&quot; target=&quot;_blank&quot;&gt;Mercantile Communications Pvt. Ltd.&lt;/a&gt; Registration of .np with secondary level like &lt;strong&gt;.com.np&lt;/strong&gt;, &lt;strong&gt;edu.np&lt;/strong&gt;, &lt;strong&gt;org.np&lt;/strong&gt; can be registered by &lt;strong&gt;Neplease&lt;/strong&gt;, &lt;strong&gt;Non-Resident Neplease&lt;/strong&gt; and even by the &lt;strong&gt;foreigners&lt;/strong&gt; having Neplease residential.&lt;/p&gt;
+
+&lt;p&gt;You can have your personal name domain representing your brand, organization, service, etc. I have used my name as domain (&lt;a href=&quot;http://alonshrestha.com.np/&quot; target=&quot;_blank&quot;&gt;alonshrestha.com.np&lt;/a&gt;) for my personal and blog. Follow the procedure below if you need one.&lt;/p&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Documents (scanned copy of your citizen card or license or passport)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Coverletter&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Gmail account&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;procedure&quot;&gt;Procedure&lt;/h2&gt;
+
+&lt;h4 id=&quot;step-1-check-if-the-domain-is-available&quot;&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Check if the domain is available.&lt;/h4&gt;
+
+&lt;p&gt;Browse &lt;a href=&quot;https://register.com.np/&quot; target=&quot;_blank&quot;&gt;https://register.com.np/ &lt;/a&gt; and &lt;strong&gt;“Search”&lt;/strong&gt; for the domain you want.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-2-register-domain&quot;&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Register domain.&lt;/h4&gt;
+
+&lt;p&gt;If the status of the searched domain is &lt;strong&gt;“Available”&lt;/strong&gt; then click &lt;strong&gt;“Register now”&lt;/strong&gt; to register the domain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-3-sign-increate-user&quot;&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Sign in/Create user&lt;/h4&gt;
+
+&lt;p&gt;You will visit the login page. &lt;strong&gt;“Sign in”&lt;/strong&gt; with your account or click &lt;strong&gt;“Create user”&lt;/strong&gt; to have new an account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Jump to Step 6 if you can sign in, else continue.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;step-4-register-account&quot;&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Register account&lt;/h4&gt;
+
+&lt;p&gt;A user detail form will appear. Fill the form with valid data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-5-activate-your-email&quot;&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Activate your email.&lt;/h4&gt;
+
+&lt;p&gt;You will receive a verification message in your Gmail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Open your Gmail and verify your Gmail account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-6-sign-in&quot;&gt;&lt;strong&gt;Step 6:&lt;/strong&gt; Sign In&lt;/h4&gt;
+
+&lt;p&gt;Now you will be again redirected to the login page. Enter your credential and &lt;strong&gt;“Sign in”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-7-domain-registration&quot;&gt;&lt;strong&gt;Step 7:&lt;/strong&gt; Domain Registration&lt;/h4&gt;
+
+&lt;p&gt;You will see a domain request form. Enter the primary and secondary name server that you are going to use.&lt;/p&gt;
+
+&lt;p&gt;eg: 000webhosting&lt;/p&gt;
+
+&lt;p&gt;Primary Name Server: ns01.000webhost.com&lt;/p&gt;
+
+&lt;p&gt;Secondary Name Server: ns02.000webhost.com&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;step-8-administrative-contact&quot;&gt;&lt;strong&gt;Step 8:&lt;/strong&gt; Administrative Contact&lt;/h4&gt;
+
+&lt;p&gt;Fill the administrative contact form with valid data and submit it.&lt;/p&gt;
+
+&lt;h4 id=&quot;step-9-submit-your-personal-document&quot;&gt;&lt;strong&gt;Step 9:&lt;/strong&gt; Submit your Personal Document&lt;/h4&gt;
+
+&lt;p&gt;Now submit your document eg: license, citizen card, passport and cover letter in .jpg format with less than 300Kb.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;step-10-complete-registration&quot;&gt;&lt;strong&gt;Step 10:&lt;/strong&gt; Complete Registration&lt;/h4&gt;
+
+&lt;p&gt;You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see a similar image below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="free" /><category term="domain" /><category term=".com.np" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">Domain .com.np is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.</summary></entry><entry><title type="html">Blogging with Github Pages and Jekyll</title><link href="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/" rel="alternate" type="text/html" title="Blogging with Github Pages and Jekyll" /><published>2019-06-27T00:00:00+05:45</published><updated>2019-06-27T00:00:00+05:45</updated><id>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll</id><content type="html" xml:base="http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/">&lt;p&gt;This is my first blog with &lt;a href=&quot;https://pages.github.com/&quot; target=&quot;_blank&quot;&gt;Github Pages&lt;/a&gt;. I used to have tech-related blogs and online portfolio on &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain &lt;em&gt;alonshrestha.com.np&lt;/em&gt;. I could have done this using Wordpress or other media donating some money.
+>>>>>>> dd191154c5fab5d83749e8cfc81a2ade328e79ab
 Doing research on such media, I came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.&lt;/p&gt;
 
 &lt;p&gt;I choose Github Pages and Jekyll for hosting my pages and didn’t believe the secret that &lt;a href=&quot;https://wordpress.com/&quot; target=&quot;_blank&quot;&gt;WordPress&lt;/a&gt; is the king when it comes to blog and hosting.&lt;/p&gt;
