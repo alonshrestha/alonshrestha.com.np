@@ -7,6 +7,7 @@ tag:
 - free
 - domain
 - ".com.np"
+- Nepal
 - jekyll
 - gh-pages
 star: true
