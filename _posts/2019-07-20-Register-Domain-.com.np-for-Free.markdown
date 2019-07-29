@@ -102,6 +102,28 @@ Now submit your document eg: license, citizen card, passport and cover letter in
 
 ![](/assets/images/blog/2019-07-20/img9.png)
 
+#### Sample of cover letter
+
+	Date (eg:July 24, 2019)
+
+	To,
+	The Host Master
+	Mercantile Communication Pvt. Ltd
+	
+				Subject: Domain Registration
+
+	Dear Sir/Madam,
+
+	I am writing to you to register a domain for myself by the name "YourDomainName(eg: test.com.np)".
+	I have successfully completed other process of registration as required in the domain registration
+	following all the terms and condition.
+	It would be very nice if you could help me out in this process. I would always be available to
+	provide any more information that you need to complete this process. I look forward to hearing
+	from you.
+
+	Regards,
+	Your Name
+
 #### **Step 10:** Complete Registration
 
 You have completed your domain registration, wait for the approval by Merchantile. Visit your dashboard you must be able to see a similar image below.  

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T13:06:32+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-24T22:14:11+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><subtitle>A blog about technology related</subtitle><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+>>>>>>> d35c9fe66f567a2091bd7db7ebdd80be17b4019a
 
 &lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
 
@@ -166,6 +170,29 @@
 &lt;p&gt;Now submit your document eg: license, citizen card, passport and cover letter in .jpg format with less than 300Kb.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;sample-of-cover-letter&quot;&gt;Sample of cover letter&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Date (eg:July 24, 2019)
+
+To,
+The Host Master
+Mercantile Communication Pvt. Ltd
+
+			Subject: Domain Registration
+
+Dear Sir/Madam,
+
+I am writing to you to register a domain for myself by the name &quot;YourDomainName(eg: test.com.np)&quot;.
+I have successfully completed other process of registration as required in the domain registration
+following all the terms and condition.
+It would be very nice if you could help me out in this process. I would always be available to
+provide any more information that you need to complete this process. I look forward to hearing
+from you.
+
+Regards,
+Your Name
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h4 id=&quot;step-10-complete-registration&quot;&gt;&lt;strong&gt;Step 10:&lt;/strong&gt; Complete Registration&lt;/h4&gt;
 
