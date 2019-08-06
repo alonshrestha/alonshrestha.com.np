@@ -6,6 +6,7 @@ headerImage: true
 tag:
 - githubpages
 - jekyll
+- nepal
 star: true
 category: blog
 author: alonshrestha

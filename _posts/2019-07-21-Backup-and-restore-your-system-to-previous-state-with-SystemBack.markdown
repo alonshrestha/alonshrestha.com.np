@@ -11,6 +11,7 @@ tag:
 - restore
 - jekyll
 - gh-pages
+- nepal
 star: true
 category: blog
 author: alonshrestha
