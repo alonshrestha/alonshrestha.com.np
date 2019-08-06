@@ -1,5 +1,5 @@
 ---
-title: Virtualization
+title: Introduction to Virtualization | Beginner's Guide
 date: '2019-08-03'
 layout: post
 headerImage: true

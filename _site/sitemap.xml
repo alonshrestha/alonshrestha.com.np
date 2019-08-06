@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/Host-Your-Sites-For-Free-Using-GIthubPages/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/</loc>
 <lastmod>2019-06-27T00:00:00+05:45</lastmod>
 </url>
@@ -13,20 +19,12 @@
 <lastmod>2019-07-21T00:00:00+05:45</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Virtualization/</loc>
+<loc>http://localhost:4000/Introduction-to-Virtualization-Beginner's-Guide/</loc>
 <lastmod>2019-08-03T00:00:00+05:45</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Beginners-to-VirtualBox/</loc>
+<loc>http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/</loc>
 <lastmod>2019-08-06T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Host-Your-Sites-For-Free-Using-GIthubPages/</loc>
-<lastmod>2019-08-06T08:56:51+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/</loc>
-<lastmod>2019-08-06T08:58:01+05:45</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
