@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-06T16:52:36+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Ubuntu and Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu and Windows | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/">&lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Virtualization/&quot; _target=&quot;blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by Oracle Corporation for enterprise-level and home use. In 2007 the software was invented by Innotek GmbH and later acquired by Oracle in 2010.  This application supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and others.&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Linux" /><category term="Hypervisor" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html">VirtualBox is a powerful opensource virtualization software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by Oracle Corporation for enterprise-level and home use. In 2007 the software was invented by Innotek GmbH and later acquired by Oracle in 2010. This application supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and others.</summary></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-07T18:01:00+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Ubuntu | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/345.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
+&lt;h2 id=&quot;step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visit Oracle VirtualBox website &lt;a href=&quot;https://www.virtualbox.org/&quot; target=&quot;_blank&quot;&gt;https://www.virtualbox.org/ &lt;/a&gt; and go to the download as show in the picture below.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Now select the linux distribution platform.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Choose the distro that you are using. In my case its Ubuntu 16.04.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Now download the extension pack. This helps you to connect your virtual machine with USB 2.0 and USB 3.0.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt; Note: Extension is not required to run VirtualBox. &lt;strong&gt;This is optional&lt;/strong&gt; &lt;/span&gt; .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open and run the download package from your Download directory.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;You will see an installation window of VirtualBox in ubuntu software. Click on install.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;After installation go to windows and  search for VirtualBox and open it.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;You will be able to see the application similar down below.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-setup-extension-in-virtualbox&quot;&gt;Step 3: Setup Extension in VirtualBox&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Run the application. Go to Files -&amp;gt; Preferences -&amp;gt; Extensions and Add the extension from your Download Folder.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/10.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Select the extension&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/12.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Agree on the policy and complete the setup. Now you will be able to see similar as shown below&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Linux" /><category term="Hypervisor" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html"></summary></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The era of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtualization&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today’s world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.&lt;/p&gt;
+&lt;h1 id=&quot;what-is-virtualization&quot;&gt;What is Virtualization?&lt;/h1&gt;
+&lt;p&gt;In a very simple way, virtualization is the creation of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtual&quot; target=&quot;_blank&quot;&gt;virtual(&lt;strong&gt;rather than actual&lt;/strong&gt;)&lt;/a&gt;. This technology lets you run multiple virtual machines on a single physical machine. The resources of a single physical machine are being shared with multiple virtual machines. Each virtual machine can run and interact independently with others. They are isolated with each other due to which if one crashes, it doesn’t affect others.&lt;/p&gt;
+
+&lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
+&lt;p&gt;In 1960 &lt;a href=&quot;https://www.ibm.com/&quot; target=&quot;_blank&quot;&gt;IMB&lt;/a&gt; first invented virtualization for their mainframe machine as an approach to time-sharing. &lt;a href=&quot;https://www.ibm.com/cloud/learn/hypervisors&quot; target=&quot;_blank&quot;&gt;Hypervisor&lt;/a&gt; made it possible to use multiple systems in a single machine. It is the process of separating the operating system and application between underlying hardware by creating an absolute layer between the software and hardware accessing the resources like storage, network and the memory of the hardware. You might have used virtualization if your desktop hard disk is partition into multiple disks. i.e &lt;a href=&quot;&quot;&gt;Disk (C:), (D:), (E:)&lt;/a&gt;. This is known as &lt;a href=&quot;https://en.wikipedia.org/wiki/Storage_virtualization&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;storage virtualization&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;different-types-of-virtualization&quot;&gt;Different types of Virtualization&lt;/h1&gt;
+&lt;h3 id=&quot;application-virtualization&quot;&gt;Application Virtualization&lt;/h3&gt;
+&lt;p&gt;It might be of a server-based approach, where the application is installed and the client can access the application without installing them on individual machines. eg:&lt;a href=&quot;https://en.wikipedia.org/wiki/Microsoft_App-V&quot; target=&quot;_blank&quot;&gt; App-V&lt;/a&gt;, &lt;a href=&quot;https://www.vmware.com/latam/products/thinapp.html&quot; target=&quot;_blank&quot;&gt;Vmware ThinApp&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;desktop-virtualization&quot;&gt;Desktop Virtualization&lt;/h3&gt;
+&lt;p&gt;This is a client-server based approach, which lets you remotely log access from any location through the network.&lt;/p&gt;
+&lt;h3 id=&quot;hardware-virtualization&quot;&gt;Hardware Virtualization&lt;/h3&gt;
+&lt;p&gt;It is also known as virtualization, where hypervisor or &lt;a href=&quot;https://virt-manager.org/&quot; target=&quot;_blank&quot;&gt;VMM(Virtual Machine Manager)&lt;/a&gt; is installed on the server which serves multiple different Operating System simultaneously and isolated. eg(&lt;a href=&quot;https://www.vmware.com/products/vsphere.html&quot; target=&quot;_blank&quot;&gt;VMware Sphere&lt;/a&gt;, &lt;a href=&quot;https://www.vmware.com/products/esxi-and-esx.html&quot; target=&quot;_blank&quot;&gt;ESXi&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&quot;network-virtualization&quot;&gt;Network Virtualization&lt;/h3&gt;
+&lt;p&gt;This virtualization uses network resources of a physical server and provides service of computing applications of all virtual machine in a single pool.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-virtualization&quot;&gt;Why Virtualization?&lt;/h1&gt;
+&lt;p&gt;1.95 billion websites are live and running in the cloud server today, but the number of serves isn’t the same. More than half the number of websites can be used for the server. In global, most of the organization has implemented virtualization for optimizing the result. Not only the organization but also by the developers for developing or testing their products, virtualization is set up according to their required environment. This does not affect the original environment incase the result may fail.&lt;/p&gt;
+&lt;h2 id=&quot;merits&quot;&gt;Merits&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Efficient in IT operation.&lt;/li&gt;
+  &lt;li&gt;Reduce time spent&lt;/li&gt;
+  &lt;li&gt;Reduce cost&lt;/li&gt;
+  &lt;li&gt;Increase productivity&lt;/li&gt;
+  &lt;li&gt;Ease backup and swift recovery&lt;/li&gt;
+  &lt;li&gt;Security&lt;/li&gt;
+  &lt;li&gt;Shifting to cloud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;demerits&quot;&gt;Demerits&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;High cost of implementation&lt;/li&gt;
+  &lt;li&gt;Speed can be reduced if the physical hardware has low resources.&lt;/li&gt;
+  &lt;li&gt;Not sure of every hardware and software can virtualize&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="IBM" /><category term="Hypervisor" /><category term="VMware" /><category term="linux" /><category term="cloud server" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html"></summary></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
 
 &lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
 

@@ -18,6 +18,8 @@ category: blog
 author: alonshrestha
 ---
 
+
+
 ![](/assets/images/blog/2019-08-03/4.jpg) 
 
 The era of [virtualization](https://en.wikipedia.org/wiki/Virtualization){:target="_blank"} might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today's world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.
