@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-07T18:01:00+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Ubuntu | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-and-Windows-Step-to-Virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/345.gif&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-08T21:22:28+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
+&lt;h2 id=&quot;step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Visit Oracle VirtualBox website &lt;a href=&quot;https://www.virtualbox.org/&quot; target=&quot;_blank&quot;&gt;https://www.virtualbox.org/ &lt;/a&gt; and go to the download as show in the picture below.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Now select the Windows hosts platform.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Save the Downlaod file.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Now download the extension pack. This helps you to connect your virtual machine with USB 2.0 and USB 3.0.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/3.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt; Note: Extension is not required to run VirtualBox. &lt;strong&gt;This is optional&lt;/strong&gt; &lt;/span&gt; .&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Open and run the package from your Download directory.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/4.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;You will see an installation window of VirtualBox. Click Next.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/6.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Go to Browse if you want to install in different location or Next for defalut.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/7.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Select the features for your desktop and Install.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/10.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Click Finish after the installation is completed.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/11.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-setup-extension-in-virtualbox-optional&quot;&gt;Step 3: Setup Extension in VirtualBox (Optional)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Run the application. Go to Files -&amp;gt; Preferences -&amp;gt; Extensions and Add the extension from your Download Folder.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/12.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Select the extension&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/5.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Agree on the policy and complete the setup. Now you will be able to see similar as shown below&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/14.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Hypervisor" /><category term="jekyll" /><category term="gh-pages" /><summary type="html"></summary></entry><entry><title type="html">Install VirtualBox in Ubuntu | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/345.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
 
@@ -76,7 +159,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Linux" /><category term="Hypervisor" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html"></summary></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Linux" /><category term="Hypervisor" /><category term="jekyll" /><category term="gh-pages" /><summary type="html"></summary></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The era of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtualization&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today’s world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.&lt;/p&gt;
 &lt;h1 id=&quot;what-is-virtualization&quot;&gt;What is Virtualization?&lt;/h1&gt;
@@ -112,7 +195,7 @@
   &lt;li&gt;High cost of implementation&lt;/li&gt;
   &lt;li&gt;Speed can be reduced if the physical hardware has low resources.&lt;/li&gt;
   &lt;li&gt;Not sure of every hardware and software can virtualize&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="IBM" /><category term="Hypervisor" /><category term="VMware" /><category term="linux" /><category term="cloud server" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html"></summary></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="IBM" /><category term="Hypervisor" /><category term="VMware" /><category term="linux" /><category term="cloud server" /><category term="jekyll" /><category term="gh-pages" /><summary type="html"></summary></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
 
 &lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
 
@@ -185,7 +268,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Now you can boot your system for installation and restore to the previous state.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html">SystemBack is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><category term="jekyll" /><category term="gh-pages" /><summary type="html">SystemBack is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.np&quot; target=&quot;_blank&quot;&gt;.np&lt;/a&gt; is the country top-level domain in Nepal administered by &lt;a href=&quot;http://mos.com.np/&quot; target=&quot;_blank&quot;&gt;Mercantile Communications Pvt. Ltd.&lt;/a&gt; Registration of .np with secondary level like &lt;strong&gt;.com.np&lt;/strong&gt;, &lt;strong&gt;edu.np&lt;/strong&gt;, &lt;strong&gt;org.np&lt;/strong&gt; can be registered by &lt;strong&gt;Neplease&lt;/strong&gt;, &lt;strong&gt;Non-Resident Neplease&lt;/strong&gt; and even by the &lt;strong&gt;foreigners&lt;/strong&gt; having Neplease residential.&lt;/p&gt;
 
@@ -331,4 +414,4 @@ Doing research on such media, I came to know about Github Pages and implementing
   &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Programming and GitHub knowledge are required&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Feel free to write me if you need help.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="githubpages" /><category term="jekyll" /><category term="nepal" /><summary type="html">This is my first blog with Github Pages. I used to have tech-related blogs and online portfolio on WordPress which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain alonshrestha.com.np. I could have done this using Wordpress or other media donating some money. Doing research on such media, I came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.</summary></entry></feed>
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Feel free to write me if you need help.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="githubpages" /><category term="jekyll" /><summary type="html">This is my first blog with Github Pages. I used to have tech-related blogs and online portfolio on WordPress which seems to be very easy for everyone. Having a programming background and using WordPress for blogging was not satisfying for me. First thing, I wanted to have my own custom design web page and second, use my personal domain alonshrestha.com.np. I could have done this using Wordpress or other media donating some money. Doing research on such media, I came to know about Github Pages and implementing it is the whole output I got here. Thought to share with you guys as working example.</summary></entry></feed>

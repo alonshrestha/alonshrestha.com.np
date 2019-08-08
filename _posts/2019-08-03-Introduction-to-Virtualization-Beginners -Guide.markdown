@@ -12,7 +12,6 @@ tag:
 - cloud server
 - jekyll
 - gh-pages
-- nepal
 star: true
 category: blog
 author: alonshrestha
