@@ -2,7 +2,8 @@
 title: Install VirtualBox in Windows | Step to Virtualization
 date: '2019-08-07'
 layout: post
-headerImage: true
+image: /assets/images/blog/2019-08-07/321.jpg
+headerImage: false
 tag:
 - virtualization
 - Virtual Box
