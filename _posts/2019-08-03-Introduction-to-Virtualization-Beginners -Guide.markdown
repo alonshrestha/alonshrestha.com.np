@@ -2,7 +2,8 @@
 title: Introduction to Virtualization | Beginner's Guide
 date: '2019-08-03'
 layout: post
-headerImage: true
+image: /assets/images/blog/2019-08-03/4.jpg
+headerImage: false
 tag:
 - virtualization
 - IBM

@@ -2,7 +2,8 @@
 title: Install VirtualBox in Ubuntu | Step to Virtualization
 date: '2019-08-06'
 layout: post
-headerImage: talse
+image: /assets/images/blog/blog/2019-08-06/345.gif
+headerImage: false
 tag:
 - virtualization
 - Virtual Box

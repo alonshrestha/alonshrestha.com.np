@@ -2,7 +2,7 @@
 title: "Blogging with Github Pages and Jekyll"
 layout: post
 date: 2019-06-27
-headerImage: true
+headerImage: false
 tag:
 - githubpages
 - jekyll

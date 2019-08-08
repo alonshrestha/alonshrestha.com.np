@@ -2,7 +2,7 @@
 title: Backup and Restore your Linux System to the Previous State with "SystemBack"
 layout: post
 date: '2019-07-21'
-headerImage: true
+headerImage: false
 tag:
 - system back
 - ubuntu

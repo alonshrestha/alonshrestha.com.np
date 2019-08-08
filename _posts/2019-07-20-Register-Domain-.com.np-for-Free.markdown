@@ -2,7 +2,7 @@
 title: Register Domain .com.np for Free
 layout: post
 date: '2019-07-20'
-headerImage: true
+image: "/assets/images/blog/2019-07-20/nepReg.jpg"
 tag:
 - free
 - domain
