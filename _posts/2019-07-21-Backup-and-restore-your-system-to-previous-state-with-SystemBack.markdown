@@ -9,8 +9,6 @@ tag:
 - linux
 - backup
 - restore
-- jekyll
-- gh-pages
 star: true
 category: blog
 author: alonshrestha

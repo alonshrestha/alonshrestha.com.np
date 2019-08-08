@@ -11,8 +11,6 @@ tag:
 - VMware
 - linux
 - cloud server
-- jekyll
-- gh-pages
 star: true
 category: blog
 author: alonshrestha

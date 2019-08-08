@@ -11,8 +11,6 @@ tag:
 - Installation
 - Linux
 - Hypervisor
-- jekyll
-- gh-pages
 star: true
 category: blog
 author: alonshrestha

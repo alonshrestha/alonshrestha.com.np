@@ -8,8 +8,6 @@ tag:
 - domain
 - ".com.np"
 - Nepal
-- jekyll
-- gh-pages
 star: true
 category: blog
 author: alonshrestha
