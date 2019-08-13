@@ -2,8 +2,7 @@
 title: Install VirtualBox in Ubuntu | Step to Virtualization
 date: '2019-08-06'
 layout: post
-image: /assets/images/blog/blog/2019-08-06/345.gif
-headerImage: false
+image: "/assets/images/blog/blog/2019-08-06/345.gif"
 tag:
 - virtualization
 - Virtual Box
@@ -19,6 +18,11 @@ author: alonshrestha
 <p style="text-align:center;"><img src="/assets/images/blog/2019-08-06/345.gif"/></p>
 
 VirtualBox is a powerful opensource [virtualization](https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/){:target="_blank"} software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by [Oracle Corporation](https://www.oracle.com/index.html){:target="_blank"} for enterprise-level and home use. In 2007 the software was invented by [Innotek GmbH](https://www.virtualbox.org/wiki/innotek){:target="_blank"} and later acquired by Oracle in 2010.  This [application](https://en.wikipedia.org/wiki/VirtualBox){:target="_blank"} supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and [others](https://www.virtualbox.org/wiki/Guest_OSes){:target="_blank"}.
+
+> **Table of Content**
+
+* TOC
+{:toc}
 
 # Installation
 ## Step 1: Download VirtualBox

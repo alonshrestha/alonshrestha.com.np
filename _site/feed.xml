@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-13T11:21:36+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">I use CloudFlare for Performance and Security</title><link href="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/" rel="alternate" type="text/html" title="I use CloudFlare for Performance and Security" /><published>2019-08-09T00:00:00+05:45</published><updated>2019-08-09T00:00:00+05:45</updated><id>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt</id><content type="html" xml:base="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/"></content><author><name>alonshrestha</name></author><category term="blog" /><category term="DNS" /><category term="Management" /><category term="CloudFlare" /><category term="Security" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html"></summary></entry><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-13T12:13:24+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Table of Content&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot; id=&quot;markdown-toc-installation&quot;&gt;Installation&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-1-download-virtualbox&quot; id=&quot;markdown-toc-step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-2-install-virtualbox&quot; id=&quot;markdown-toc-step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-3-setup-extension-in-virtualbox-optional&quot; id=&quot;markdown-toc-step-3-setup-extension-in-virtualbox-optional&quot;&gt;Step 3: Setup Extension in VirtualBox (Optional)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
 &lt;h2 id=&quot;step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/h2&gt;
@@ -85,6 +98,19 @@
 
 &lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Table of Content&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot; id=&quot;markdown-toc-installation&quot;&gt;Installation&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-1-download-virtualbox&quot; id=&quot;markdown-toc-step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-2-install-virtualbox&quot; id=&quot;markdown-toc-step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-3-setup-extension-in-virtualbox&quot; id=&quot;markdown-toc-step-3-setup-extension-in-virtualbox&quot;&gt;Step 3: Setup Extension in VirtualBox&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&quot;installation&quot;&gt;Installation&lt;/h1&gt;
 &lt;h2 id=&quot;step-1-download-virtualbox&quot;&gt;Step 1: Download VirtualBox&lt;/h2&gt;
 &lt;ul&gt;
@@ -162,6 +188,28 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Linux" /><category term="Hypervisor" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/blog/2019-08-06/345.gif" /></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The era of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtualization&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today’s world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Table of Content&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-virtualization&quot; id=&quot;markdown-toc-what-is-virtualization&quot;&gt;What is Virtualization?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#history&quot; id=&quot;markdown-toc-history&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#different-types-of-virtualization&quot; id=&quot;markdown-toc-different-types-of-virtualization&quot;&gt;Different types of Virtualization&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#application-virtualization&quot; id=&quot;markdown-toc-application-virtualization&quot;&gt;Application Virtualization&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#desktop-virtualization&quot; id=&quot;markdown-toc-desktop-virtualization&quot;&gt;Desktop Virtualization&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hardware-virtualization&quot; id=&quot;markdown-toc-hardware-virtualization&quot;&gt;Hardware Virtualization&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#network-virtualization&quot; id=&quot;markdown-toc-network-virtualization&quot;&gt;Network Virtualization&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-virtualization&quot; id=&quot;markdown-toc-why-virtualization&quot;&gt;Why Virtualization?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#merits&quot; id=&quot;markdown-toc-merits&quot;&gt;Merits&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#demerits&quot; id=&quot;markdown-toc-demerits&quot;&gt;Demerits&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h1 id=&quot;what-is-virtualization&quot;&gt;What is Virtualization?&lt;/h1&gt;
 &lt;p&gt;In a very simple way, virtualization is the creation of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtual&quot; target=&quot;_blank&quot;&gt;virtual(&lt;strong&gt;rather than actual&lt;/strong&gt;)&lt;/a&gt;. This technology lets you run multiple virtual machines on a single physical machine. The resources of a single physical machine are being shared with multiple virtual machines. Each virtual machine can run and interact independently with others. They are isolated with each other due to which if one crashes, it doesn’t affect others.&lt;/p&gt;
 
@@ -195,21 +243,36 @@
   &lt;li&gt;High cost of implementation&lt;/li&gt;
   &lt;li&gt;Speed can be reduced if the physical hardware has low resources.&lt;/li&gt;
   &lt;li&gt;Not sure of every hardware and software can virtualize&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="IBM" /><category term="Hypervisor" /><category term="VMware" /><category term="linux" /><category term="cloud server" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/2019-08-03/4.jpg" /></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="IBM" /><category term="Hypervisor" /><category term="VMware" /><category term="linux" /><category term="cloud server" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/2019-08-03/4.jpg" /></entry><entry><title type="html">Backup and Restore your Linux System to the Previous State with “SystemBack”</title><link href="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/" rel="alternate" type="text/html" title="Backup and Restore your Linux System to the Previous State with &quot;SystemBack&quot;" /><published>2019-07-21T00:00:00+05:45</published><updated>2019-07-21T00:00:00+05:45</updated><id>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack</id><content type="html" xml:base="http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/">&lt;h3 id=&quot;what-is-systemback&quot;&gt;What is SystemBack?&lt;/h3&gt;
 
-&lt;h3 id=&quot;advantages&quot;&gt;Advantages:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;SystemBack&lt;/strong&gt; is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Table of Content&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-systemback&quot; id=&quot;markdown-toc-what-is-systemback&quot;&gt;What is SystemBack?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#advantages&quot; id=&quot;markdown-toc-advantages&quot;&gt;Advantages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#disadvantages&quot; id=&quot;markdown-toc-disadvantages&quot;&gt;Disadvantages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#install-systemback-in-ubuntu&quot; id=&quot;markdown-toc-install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-to-use&quot; id=&quot;markdown-toc-how-to-use&quot;&gt;How to use?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;advantages&quot;&gt;Advantages&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Live boot image.&lt;/li&gt;
   &lt;li&gt;Easy installation and fast recovery.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;disadvantages&quot;&gt;Disadvantages:&lt;/h3&gt;
+&lt;h3 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;If your .sblive file is more than 4 GB then, cannot be converted to ISO file.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/h4&gt;
+&lt;h3 id=&quot;install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt;sudo add-apt-repository ppa:nemh/systemback &lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get update &lt;/span&gt;&lt;/li&gt;
@@ -218,7 +281,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-21/1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h4&gt;
+&lt;h3 id=&quot;how-to-use&quot;&gt;How to use?&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;After installation, search application by clicking on windows or simply typing SystemBack in the terminal.&lt;/li&gt;
 &lt;/ul&gt;
@@ -268,11 +332,33 @@
 
 &lt;ul&gt;
   &lt;li&gt;Now you can boot your system for installation and restore to the previous state.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><summary type="html">SystemBack is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="system back" /><category term="ubuntu" /><category term="linux" /><category term="backup" /><category term="restore" /><summary type="html">What is SystemBack?</summary></entry><entry><title type="html">Register Domain .com.np for Free</title><link href="http://localhost:4000/Register-Domain-.com.np-for-Free/" rel="alternate" type="text/html" title="Register Domain .com.np for Free" /><published>2019-07-20T00:00:00+05:45</published><updated>2019-07-20T00:00:00+05:45</updated><id>http://localhost:4000/Register-Domain-.com.np-for-Free</id><content type="html" xml:base="http://localhost:4000/Register-Domain-.com.np-for-Free/">&lt;p&gt;Domain &lt;strong&gt;.com.np&lt;/strong&gt; is the property that you can get in Nepal for free. Did you believe it? If you didn’t, I will make this real for you.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/.np&quot; target=&quot;_blank&quot;&gt;.np&lt;/a&gt; is the country top-level domain in Nepal administered by &lt;a href=&quot;http://mos.com.np/&quot; target=&quot;_blank&quot;&gt;Mercantile Communications Pvt. Ltd.&lt;/a&gt; Registration of .np with secondary level like &lt;strong&gt;.com.np&lt;/strong&gt;, &lt;strong&gt;edu.np&lt;/strong&gt;, &lt;strong&gt;org.np&lt;/strong&gt; can be registered by &lt;strong&gt;Neplease&lt;/strong&gt;, &lt;strong&gt;Non-Resident Neplease&lt;/strong&gt; and even by the &lt;strong&gt;foreigners&lt;/strong&gt; having Neplease residential.&lt;/p&gt;
 
 &lt;p&gt;You can have your personal name domain representing your brand, organization, service, etc. I have used my name as domain (&lt;a href=&quot;http://alonshrestha.com.np/&quot; target=&quot;_blank&quot;&gt;alonshrestha.com.np&lt;/a&gt;) for my personal and blog. Follow the procedure below if you need one.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Table Of Content&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#requirements&quot; id=&quot;markdown-toc-requirements&quot;&gt;Requirements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#procedure&quot; id=&quot;markdown-toc-procedure&quot;&gt;Procedure&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-1-check-if-the-domain-is-available&quot; id=&quot;markdown-toc-step-1-check-if-the-domain-is-available&quot;&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Check if the domain is available.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-2-register-domain&quot; id=&quot;markdown-toc-step-2-register-domain&quot;&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Register domain.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-3-sign-increate-user&quot; id=&quot;markdown-toc-step-3-sign-increate-user&quot;&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Sign in/Create user&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-4-register-account&quot; id=&quot;markdown-toc-step-4-register-account&quot;&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Register account&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-5-activate-your-email&quot; id=&quot;markdown-toc-step-5-activate-your-email&quot;&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Activate your email.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-6-sign-in&quot; id=&quot;markdown-toc-step-6-sign-in&quot;&gt;&lt;strong&gt;Step 6:&lt;/strong&gt; Sign In&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-7-domain-registration&quot; id=&quot;markdown-toc-step-7-domain-registration&quot;&gt;&lt;strong&gt;Step 7:&lt;/strong&gt; Domain Registration&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-8-administrative-contact&quot; id=&quot;markdown-toc-step-8-administrative-contact&quot;&gt;&lt;strong&gt;Step 8:&lt;/strong&gt; Administrative Contact&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-9-submit-your-personal-document&quot; id=&quot;markdown-toc-step-9-submit-your-personal-document&quot;&gt;&lt;strong&gt;Step 9:&lt;/strong&gt; Submit your Personal Document&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sample-of-cover-letter&quot; id=&quot;markdown-toc-sample-of-cover-letter&quot;&gt;Sample of cover letter&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-10-complete-registration&quot; id=&quot;markdown-toc-step-10-complete-registration&quot;&gt;&lt;strong&gt;Step 10:&lt;/strong&gt; Complete Registration&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 

@@ -2,8 +2,7 @@
 title: Introduction to Virtualization | Beginner's Guide
 date: '2019-08-03'
 layout: post
-image: /assets/images/blog/2019-08-03/4.jpg
-headerImage: false
+image: "/assets/images/blog/2019-08-03/4.jpg"
 tag:
 - virtualization
 - IBM
@@ -16,13 +15,19 @@ category: blog
 author: alonshrestha
 ---
 
-
-
 ![](/assets/images/blog/2019-08-03/4.jpg) 
 
 The era of [virtualization](https://en.wikipedia.org/wiki/Virtualization){:target="_blank"} might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today's world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.
+
+> **Table of Content**
+
+* TOC
+{:toc}
+
 # What is Virtualization?
 In a very simple way, virtualization is the creation of [virtual(**rather than actual**)](https://en.wikipedia.org/wiki/Virtual){:target="_blank"}. This technology lets you run multiple virtual machines on a single physical machine. The resources of a single physical machine are being shared with multiple virtual machines. Each virtual machine can run and interact independently with others. They are isolated with each other due to which if one crashes, it doesn't affect others.
+
+
 
 # History 
 In 1960 [IMB](https://www.ibm.com/){:target="_blank"} first invented virtualization for their mainframe machine as an approach to time-sharing. [Hypervisor](https://www.ibm.com/cloud/learn/hypervisors){:target="_blank"} made it possible to use multiple systems in a single machine. It is the process of separating the operating system and application between underlying hardware by creating an absolute layer between the software and hardware accessing the resources like storage, network and the memory of the hardware. You might have used virtualization if your desktop hard disk is partition into multiple disks. i.e [Disk (C:), (D:), (E:)](). This is known as [**storage virtualization**](https://en.wikipedia.org/wiki/Storage_virtualization){:target="_blank"}.

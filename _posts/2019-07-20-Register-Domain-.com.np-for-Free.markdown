@@ -19,6 +19,12 @@ Domain **.com.np** is the property that you can get in Nepal for free. Did you b
 
 You can have your personal name domain representing your brand, organization, service, etc. I have used my name as domain ([alonshrestha.com.np](http://alonshrestha.com.np/){:target="_blank"}) for my personal and blog. Follow the procedure below if you need one.
 
+> **Table Of Content**
+
+* TOC
+{:toc}
+
+
 ## Requirements
  
  > - Documents (scanned copy of your citizen card or license or passport)
