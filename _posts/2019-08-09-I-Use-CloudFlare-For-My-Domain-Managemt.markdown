@@ -1,6 +1,6 @@
 ---
+title: I use CloudFlare for Performance and Security
 layout: post
-title: I use CloudFlare for my Domain Security and Management
 headerImage: true
 tag:
 - DNS
@@ -14,3 +14,4 @@ star: true
 category: blog
 author: alonshrestha
 ---
+
