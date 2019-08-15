@@ -24,7 +24,13 @@ comments: true
     </div>
 {% endif %}
 
-{{content}}
+
+    {% if page.summary %}
+    <div class="summary">{{page.summary}}</div>
+    {% endif %}
+<script src="/js/toc.js"></script>
+<div id="toc"></div>
+    {{ content }}
 
 
 {% if site.related %}
@@ -52,4 +58,8 @@ comments: true
     {% include disqus.html %}
 {% endif %}
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#toc').toc();
+    });
 

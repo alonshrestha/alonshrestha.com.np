@@ -1,4 +1,386 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-15T00:39:24+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-15T16:06:20+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">I use CloudFlare for Performance and Security</title><link href="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/" rel="alternate" type="text/html" title="I use CloudFlare for Performance and Security" /><published>2019-08-09T00:00:00+05:45</published><updated>2019-08-09T00:00:00+05:45</updated><id>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt</id><content type="html" xml:base="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/">&lt;div class=&quot;alert alert-info&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+
+&lt;style&gt;
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;note&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.&lt;/div&gt;--&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#about-alerts&quot; id=&quot;markdown-toc-about-alerts&quot;&gt;About alerts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;alert alert-warning&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-warning&quot;&gt;&lt;/i&gt; &lt;b&gt;Important:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.&lt;/div&gt;--&gt;
+&lt;div class=&quot;alert alert-block&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Important:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+
+&lt;style&gt;
+
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Warning:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.&lt;/div&gt;--&gt;
+
+&lt;div class=&quot;alert alert-error&quot;&gt;
+    &lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Warning:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+
+&lt;style&gt;
+
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+&lt;/style&gt;
+
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+    $( document ).ready(function() {
+        // Handler for .ready() called.
+
+        $('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+        /* this offset helps account for the space taken up by the floating toolbar. */
+        $('#toc').on('click', 'a', function() {
+            var target = $(this.getAttribute('href'))
+                , scroll_target = target.offset().top
+
+            $(window).scrollTop(scroll_target - 10);
+            return false
+        })
+
+    });
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.&lt;/div&gt;--&gt;
+
+&lt;div class=&quot;alert alert-success&quot;&gt;
+    &lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+
+&lt;style&gt;
+
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+&lt;/style&gt;
+
+&lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+    &lt;h4&gt;This is me&lt;/h4&gt;
+    This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;
+
+&lt;div class=&quot;bs-callout bs-callout-danger&quot;&gt;
+    &lt;h4&gt;This is me&lt;/h4&gt;
+    This is my note. All the content I type here is treated as a single paragraph.
+&lt;/div&gt;
+
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;
+
+&lt;h2 id=&quot;about-alerts&quot;&gt;About alerts&lt;/h2&gt;
+
+&lt;p&gt;Alerts are little warnings, info, or other messages that you have called out in special formatting. In order to use these alerts or callouts, reference the appropriate value stored in the alerts.yml file as described in the following sections.&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="DNS" /><category term="Management" /><category term="CloudFlare" /><category term="Security" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html">Note: This is my note. All the content I type here is treated as a single paragraph.</summary></entry><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
 
