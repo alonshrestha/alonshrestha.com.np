@@ -1482,7 +1482,7 @@ pre {
     
 
     
-        2 mins
+        3 mins
     
 </span>
 
@@ -1508,8 +1508,6 @@ pre {
 
 
     
-<script src="/js/toc.js"></script>
-<div id="toc"></div>
     <p style="text-align:center;"><img src="/assets/images/blog/2019-08-07/321.jpg" /></p>
 
 <p>VirtualBox is a powerful opensource <a href="https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/" target="_blank">virtualization</a> software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by <a href="https://www.oracle.com/index.html" target="_blank">Oracle Corporation</a> for enterprise-level and home use. In 2007 the software was invented by <a href="https://www.virtualbox.org/wiki/innotek" target="_blank">Innotek GmbH</a> and later acquired by Oracle in 2010.  This <a href="https://en.wikipedia.org/wiki/VirtualBox" target="_blank">application</a> supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and <a href="https://www.virtualbox.org/wiki/Guest_OSes" target="_blank">others</a>.</p>
@@ -1552,9 +1550,62 @@ pre {
 
 <p><img src="/assets/images/blog/2019-08-07/3.PNG" alt="" /></p>
 
-<blockquote>
-  <p><span class="evidence"> Note: Extension is not required to run VirtualBox. <strong>This is optional</strong> </span> .</p>
-</blockquote>
+<div class="alert alert-info">
+    <i class="fa fa-info-circle"></i> <b>Note:</b> Extension is not required to run VirtualBox. **This is optional**
+</div>
+
+<style>
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block > p,
+    .alert-block > ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+</style>
+
+<!--<div markdown="span" class="note" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> Extension is not required to run VirtualBox. **This is optional**</div>-->
 
 <h2 id="step-2-install-virtualbox">Step 2: Install VirtualBox</h2>
 <ul>
@@ -1606,7 +1657,70 @@ pre {
 
 <p><img src="/assets/images/blog/2019-08-07/14.PNG" alt="" /></p>
 
-<p><code class="highlighter-rouge">Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.</code></p>
+<div class="bs-callout bs-callout-success">
+    <h4>Congratulation!!</h4>
+    Your installation is completed. Feel free to write me  if you face any probelm.
+</div>
+
+<style>
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+</style>
+
 
 
 
@@ -2282,11 +2396,6 @@ s.setAttribute('data-timestamp', +new Date());
 </section> -->
 
 
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#toc').toc();
-    });
 
 
 

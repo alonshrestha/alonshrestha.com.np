@@ -41,7 +41,7 @@ VirtualBox is a powerful opensource [virtualization](https://alonshrestha.com.np
 
 ![](/assets/images/blog/2019-08-07/3.PNG)
 
->   <span class="evidence"> Note: Extension is not required to run VirtualBox. **This is optional** </span> .
+{% include note.html content= "Extension is not required to run VirtualBox. **This is optional**" %}
 
 ## Step 2: Install VirtualBox
 - **Open and run the package from your Download directory.**
@@ -78,5 +78,4 @@ VirtualBox is a powerful opensource [virtualization](https://alonshrestha.com.np
 
 ![](/assets/images/blog/2019-08-07/14.PNG)
 
-
-`Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.`
+{% include successCallout.html heading= "Congratulation!!" content= "Your installation is completed. Feel free to write me  if you face any probelm." %}

@@ -32,6 +32,7 @@ author: alonshrestha
 - If your .sblive file is more than 4 GB then, cannot be converted to ISO file.
 
 ### Install SystemBack in Ubuntu
+
  - <span class="evidence">sudo add-apt-repository ppa:nemh/systemback </span>
 - <span class="evidence"> sudo apt-get update </span>
 -  <span class="evidence"> sudo apt-get install systemback </span>
@@ -69,6 +70,6 @@ author: alonshrestha
 - Select the image file and click to convert to ISO.
 - You can convert a .sblive file to ISO or can burn to CD/DVD or boot in Pendrive directly.
 
-> *Note: .sblive cannot be converted to ISO if its size is more than 4GB.*
+{% include note.html content= ".sblive cannot be converted to ISO if its size is more than 4GB." %}
 
 - Now you can boot your system for installation and restore to the previous state.

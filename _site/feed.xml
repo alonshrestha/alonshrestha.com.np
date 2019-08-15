@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-15T16:06:20+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">I use CloudFlare for Performance and Security</title><link href="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/" rel="alternate" type="text/html" title="I use CloudFlare for Performance and Security" /><published>2019-08-09T00:00:00+05:45</published><updated>2019-08-09T00:00:00+05:45</updated><id>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt</id><content type="html" xml:base="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/">&lt;div class=&quot;alert alert-info&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-15T22:32:27+05:45</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alon Shrestha</title><entry><title type="html">I use CloudFlare for Performance and Security</title><link href="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/" rel="alternate" type="text/html" title="I use CloudFlare for Performance and Security" /><published>2019-08-09T00:00:00+05:45</published><updated>2019-08-09T00:00:00+05:45</updated><id>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt</id><content type="html" xml:base="http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/">&lt;div class=&quot;alert alert-info&quot;&gt;
     &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.
 &lt;/div&gt;
 
@@ -172,27 +172,6 @@
         margin-top: 5px;
     }
 &lt;/style&gt;
-
-&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
-&lt;script&gt;
-    $( document ).ready(function() {
-        // Handler for .ready() called.
-
-        $('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
-
-        /* this offset helps account for the space taken up by the floating toolbar. */
-        $('#toc').on('click', 'a', function() {
-            var target = $(this.getAttribute('href'))
-                , scroll_target = target.offset().top
-
-            $(window).scrollTop(scroll_target - 10);
-            return false
-        })
-
-    });
-&lt;/script&gt;
-
-&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
 
 &lt;!--&lt;div markdown=&quot;span&quot; class=&quot;alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;Tip:&lt;/b&gt; This is my note. All the content I type here is treated as a single paragraph.&lt;/div&gt;--&gt;
 
@@ -378,6 +357,70 @@
     }
 &lt;/style&gt;
 
+&lt;div class=&quot;bs-callout bs-callout-danger&quot;&gt;
+    &lt;h4&gt;Table of content&lt;/h4&gt;
+     {:toc} 
+&lt;/div&gt;
+
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;
+
 &lt;h2 id=&quot;about-alerts&quot;&gt;About alerts&lt;/h2&gt;
 
 &lt;p&gt;Alerts are little warnings, info, or other messages that you have called out in special formatting. In order to use these alerts or callouts, reference the appropriate value stored in the alerts.yml file as described in the following sections.&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="DNS" /><category term="Management" /><category term="CloudFlare" /><category term="Security" /><category term="jekyll" /><category term="gh-pages" /><category term="nepal" /><summary type="html">Note: This is my note. All the content I type here is treated as a single paragraph.</summary></entry><entry><title type="html">Install VirtualBox in Windows | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Windows | Step to Virtualization" /><published>2019-08-07T00:00:00+05:45</published><updated>2019-08-07T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/321.jpg&quot; /&gt;&lt;/p&gt;
@@ -422,9 +465,62 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/3.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt; Note: Extension is not required to run VirtualBox. &lt;strong&gt;This is optional&lt;/strong&gt; &lt;/span&gt; .&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; Extension is not required to run VirtualBox. **This is optional**
+&lt;/div&gt;
+
+&lt;style&gt;
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;note&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; Extension is not required to run VirtualBox. **This is optional**&lt;/div&gt;--&gt;
 
 &lt;h2 id=&quot;step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/h2&gt;
 &lt;ul&gt;
@@ -476,7 +572,69 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-07/14.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Hypervisor" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/2019-08-07/321.jpg" /></entry><entry><title type="html">Install VirtualBox in Ubuntu | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/345.gif&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;bs-callout bs-callout-success&quot;&gt;
+    &lt;h4&gt;Congratulation!!&lt;/h4&gt;
+    Your installation is completed. Feel free to write me  if you face any probelm.
+&lt;/div&gt;
+
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Windows" /><category term="Hypervisor" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/2019-08-07/321.jpg" /></entry><entry><title type="html">Install VirtualBox in Ubuntu | Step to Virtualization</title><link href="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/" rel="alternate" type="text/html" title="Install VirtualBox in Ubuntu | Step to Virtualization" /><published>2019-08-06T00:00:00+05:45</published><updated>2019-08-06T00:00:00+05:45</updated><id>http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization</id><content type="html" xml:base="http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/345.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;VirtualBox is a powerful opensource &lt;a href=&quot;https://alonshrestha.com.np/Introduction-to-Virtualization-Beginners-Guide/&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; software or platform that provides you to manage and run multiple operating systems as an application at the same time. This masterpiece was developed by &lt;a href=&quot;https://www.oracle.com/index.html&quot; target=&quot;_blank&quot;&gt;Oracle Corporation&lt;/a&gt; for enterprise-level and home use. In 2007 the software was invented by &lt;a href=&quot;https://www.virtualbox.org/wiki/innotek&quot; target=&quot;_blank&quot;&gt;Innotek GmbH&lt;/a&gt; and later acquired by Oracle in 2010.  This &lt;a href=&quot;https://en.wikipedia.org/wiki/VirtualBox&quot; target=&quot;_blank&quot;&gt;application&lt;/a&gt; supports multiple guest operating systems such as Linux, Windows, Solaris, Mac OS, Unices and &lt;a href=&quot;https://www.virtualbox.org/wiki/Guest_OSes&quot; target=&quot;_blank&quot;&gt;others&lt;/a&gt;.&lt;/p&gt;
 
@@ -519,9 +677,62 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;span class=&quot;evidence&quot;&gt; Note: Extension is not required to run VirtualBox. &lt;strong&gt;This is optional&lt;/strong&gt; &lt;/span&gt; .&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; Extension is not required to run VirtualBox. **This is optional**
+&lt;/div&gt;
+
+&lt;style&gt;
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;note&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; Extension is not required to run VirtualBox. **This is optional**&lt;/div&gt;--&gt;
 
 &lt;h2 id=&quot;step-2-install-virtualbox&quot;&gt;Step 2: Install VirtualBox&lt;/h2&gt;
 &lt;ul&gt;
@@ -567,7 +778,69 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-06/11.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Congratulation!! your installation is completed. Feel free to write me  if you face any probelm.&lt;/code&gt;&lt;/p&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Linux" /><category term="Hypervisor" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/blog/2019-08-06/345.gif" /></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;bs-callout bs-callout-success&quot;&gt;
+    &lt;h4&gt;Congratulation!!&lt;/h4&gt;
+    Your installation is completed. Feel free to write me  if you face any probelm.
+&lt;/div&gt;
+
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;</content><author><name>alonshrestha</name></author><category term="blog" /><category term="virtualization" /><category term="Virtual Box" /><category term="Oracle" /><category term="Installation" /><category term="Linux" /><category term="Hypervisor" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/blog/blog/2019-08-06/345.gif" /></entry><entry><title type="html">Introduction to Virtualization | Beginner’s Guide</title><link href="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/" rel="alternate" type="text/html" title="Introduction to Virtualization | Beginner's Guide" /><published>2019-08-03T00:00:00+05:45</published><updated>2019-08-03T00:00:00+05:45</updated><id>http://localhost:4000/Introduction-to-Virtualization-Beginners%20-Guide</id><content type="html" xml:base="http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/">&lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-08-03/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The era of &lt;a href=&quot;https://en.wikipedia.org/wiki/Virtualization&quot; target=&quot;_blank&quot;&gt;virtualization&lt;/a&gt; might not end for couple more decade. Since the last 60 years, virtualization has been providing a significant range of benefits in Information Technology like no other advance technology has. This technology has changed the determining world with virtualization. The simple concept of virtualization is making high impact on server data centers. The world is being assumed as an insider of virtualization and technician are engaged to make it real sooner or later. Though this concept is leading the world when it comes to understanding and arguments, people think to have multiple operating systems in a single machine as virtualization which means dividing a single physical machine into multiple virtual machines. Living in today’s world this explanation might not be enough to understand the working of virtualization. This article is for those who are enthusiastic and beginner to the virtualization.&lt;/p&gt;
 
@@ -655,6 +928,7 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;install-systemback-in-ubuntu&quot;&gt;Install SystemBack in Ubuntu&lt;/h3&gt;
+
 &lt;ul&gt;
   &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt;sudo add-apt-repository ppa:nemh/systemback &lt;/span&gt;&lt;/li&gt;
   &lt;li&gt;&lt;span class=&quot;evidence&quot;&gt; sudo apt-get update &lt;/span&gt;&lt;/li&gt;
@@ -708,9 +982,62 @@
   &lt;li&gt;You can convert a .sblive file to ISO or can burn to CD/DVD or boot in Pendrive directly.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;Note: .sblive cannot be converted to ISO if its size is more than 4GB.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; .sblive cannot be converted to ISO if its size is more than 4GB.
+&lt;/div&gt;
+
+&lt;style&gt;
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;note&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; .sblive cannot be converted to ISO if its size is more than 4GB.&lt;/div&gt;--&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Now you can boot your system for installation and restore to the previous state.&lt;/li&gt;
@@ -736,7 +1063,6 @@
       &lt;li&gt;&lt;a href=&quot;#step-7-domain-registration&quot; id=&quot;markdown-toc-step-7-domain-registration&quot;&gt;&lt;strong&gt;Step 7:&lt;/strong&gt; Domain Registration&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#step-8-administrative-contact&quot; id=&quot;markdown-toc-step-8-administrative-contact&quot;&gt;&lt;strong&gt;Step 8:&lt;/strong&gt; Administrative Contact&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#step-9-submit-your-personal-document&quot; id=&quot;markdown-toc-step-9-submit-your-personal-document&quot;&gt;&lt;strong&gt;Step 9:&lt;/strong&gt; Submit your Personal Document&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sample-of-cover-letter&quot; id=&quot;markdown-toc-sample-of-cover-letter&quot;&gt;Sample of cover letter&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#step-10-complete-registration&quot; id=&quot;markdown-toc-step-10-complete-registration&quot;&gt;&lt;strong&gt;Step 10:&lt;/strong&gt; Complete Registration&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -819,8 +1145,62 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;alert alert-info&quot;&gt;
+    &lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
+&lt;/div&gt;
+
+&lt;style&gt;
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block &gt; p,
+    .alert-block &gt; ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+&lt;/style&gt;
+
+&lt;!--&lt;div markdown=&quot;span&quot; class=&quot;note&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-info-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;Note:&lt;/b&gt; The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/).&lt;/div&gt;--&gt;
 
 &lt;h4 id=&quot;step-8-administrative-contact&quot;&gt;&lt;strong&gt;Step 8:&lt;/strong&gt; Administrative Contact&lt;/h4&gt;
 
@@ -832,7 +1212,68 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/blog/2019-07-20/img9.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;sample-of-cover-letter&quot;&gt;Sample of cover letter&lt;/h4&gt;
+&lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+    &lt;h4&gt;Sample of Cover Letter&lt;/h4&gt;
+    
+&lt;/div&gt;
+&lt;style&gt;
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+&lt;/style&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Date (eg:July 24, 2019)
 

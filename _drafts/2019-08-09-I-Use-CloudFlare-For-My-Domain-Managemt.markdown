@@ -27,14 +27,13 @@ sidebar: mydoc_sidebar
 
 {% include warning.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
-{% include toc.html %}
-
 {% include tip.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 {% include callout.html heading="This is me" content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 {% include summaryCallout.html heading="This is me" content="This is my note. All the content I type here is treated as a single paragraph." %}
 
+{% include summaryCallout.html heading="Table of content" content=" {:toc} " %}
 
 
 ## About alerts

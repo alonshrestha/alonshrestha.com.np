@@ -1483,7 +1483,7 @@ pre {
     
 
     
-        1 min
+        2 mins
     
 </span>
 
@@ -1507,8 +1507,6 @@ pre {
 
 
     
-<script src="/js/toc.js"></script>
-<div id="toc"></div>
     <h3 id="what-is-systemback">What is SystemBack?</h3>
 
 <p><strong>SystemBack</strong> is an open-source application for Linux which makes it easy to create live backup images of your system and user saved configurations. People who are new to Linux make mistakes with the configuration of system root files and as a result, crash the system. In this case, SystemBack is a helpful application for backing up and restoring your system in the previous state.</p>
@@ -1539,6 +1537,7 @@ pre {
 </ul>
 
 <h3 id="install-systemback-in-ubuntu">Install SystemBack in Ubuntu</h3>
+
 <ul>
   <li><span class="evidence">sudo add-apt-repository ppa:nemh/systemback </span></li>
   <li><span class="evidence"> sudo apt-get update </span></li>
@@ -1592,9 +1591,62 @@ pre {
   <li>You can convert a .sblive file to ISO or can burn to CD/DVD or boot in Pendrive directly.</li>
 </ul>
 
-<blockquote>
-  <p><em>Note: .sblive cannot be converted to ISO if its size is more than 4GB.</em></p>
-</blockquote>
+<div class="alert alert-info">
+    <i class="fa fa-info-circle"></i> <b>Note:</b> .sblive cannot be converted to ISO if its size is more than 4GB.
+</div>
+
+<style>
+    .alert {
+        padding: 8px 35px 8px 14px;
+        margin-bottom: 18px;
+        text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+        background-color: #fcf8e3;
+        border: 1px solid #fbeed5;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        color: #c09853;
+    }
+    .alert-heading {
+        color: inherit;
+    }
+    .alert .close {
+        position: relative;
+        top: -2px;
+        right: -21px;
+        line-height: 18px;
+    }
+    .alert-success {
+        background-color: #dff0d8;
+        border-color: #d6e9c6;
+        color: #468847;
+    }
+    .alert-danger,
+    .alert-error {
+        background-color: #f2dede;
+        border-color: #eed3d7;
+        color: #b94a48;
+    }
+    .alert-info {
+        background-color: #d9edf7;
+        border-color: #bce8f1;
+        color: #3a87ad;
+    }
+    .alert-block {
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    .alert-block > p,
+    .alert-block > ul {
+        margin-bottom: 0;
+    }
+    .alert-block p + p {
+        margin-top: 5px;
+    }
+
+</style>
+
+<!--<div markdown="span" class="note" role="alert"><i class="fa fa-info-circle"></i> <b>Note:</b> .sblive cannot be converted to ISO if its size is more than 4GB.</div>-->
 
 <ul>
   <li>Now you can boot your system for installation and restore to the previous state.</li>
@@ -2193,11 +2245,6 @@ s.setAttribute('data-timestamp', +new Date());
 </section> -->
 
 
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#toc').toc();
-    });
 
 
 

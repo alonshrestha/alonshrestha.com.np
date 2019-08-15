@@ -1513,8 +1513,6 @@ pre {
     
     <div class="summary">You can insert notes, tips, warnings, and important alerts in your content. These notes make use of Bootstrap styling and are available through data references such as site.data.alerts.note.</div>
     
-<script src="/js/toc.js"></script>
-<div id="toc"></div>
     
 <div class="alert alert-info">
     <i class="fa fa-info-circle"></i> <b>Note:</b> This is my note. All the content I type here is treated as a single paragraph.
@@ -1691,27 +1689,6 @@ pre {
     }
 </style>
 
-<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
-<script>
-    $( document ).ready(function() {
-        // Handler for .ready() called.
-
-        $('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
-
-        /* this offset helps account for the space taken up by the floating toolbar. */
-        $('#toc').on('click', 'a', function() {
-            var target = $(this.getAttribute('href'))
-                , scroll_target = target.offset().top
-
-            $(window).scrollTop(scroll_target - 10);
-            return false
-        })
-
-    });
-</script>
-
-<div id="toc"></div>
-
 <!--<div markdown="span" class="alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Tip:</b> This is my note. All the content I type here is treated as a single paragraph.</div>-->
 
 <div class="alert alert-success">
@@ -1835,6 +1812,70 @@ pre {
 <div class="bs-callout bs-callout-danger">
     <h4>This is me</h4>
     This is my note. All the content I type here is treated as a single paragraph.
+</div>
+
+<style>
+    .bs-callout {
+        padding: 20px;
+        margin: 20px 0;
+        border: 1px solid #eee;
+        border-left-width: 5px;
+        border-radius: 3px;
+    }
+    .bs-callout h4 {
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    .bs-callout p:last-child {
+        margin-bottom: 0;
+    }
+    .bs-callout code {
+        border-radius: 3px;
+    }
+    .bs-callout+.bs-callout {
+        margin-top: -5px;
+    }
+    .bs-callout-default {
+        border-left-color: #777;
+    }
+    .bs-callout-default h4 {
+        color: #777;
+    }
+    .bs-callout-primary {
+        border-left-color: #428bca;
+    }
+    .bs-callout-primary h4 {
+        color: #428bca;
+    }
+    .bs-callout-success {
+        border-left-color: #5cb85c;
+    }
+    .bs-callout-success h4 {
+        color: #5cb85c;
+    }
+    .bs-callout-danger {
+        border-left-color: #d9534f;
+    }
+    .bs-callout-danger h4 {
+        color: #d9534f;
+    }
+    .bs-callout-warning {
+        border-left-color: #f0ad4e;
+    }
+    .bs-callout-warning h4 {
+        color: #f0ad4e;
+    }
+    .bs-callout-info {
+        border-left-color: #5bc0de;
+    }
+    .bs-callout-info h4 {
+        color: #5bc0de;
+    }
+</style>
+
+<div class="bs-callout bs-callout-danger">
+    <h4>Table of content</h4>
+     {:toc} 
 </div>
 
 <style>
@@ -2635,11 +2676,6 @@ s.setAttribute('data-timestamp', +new Date());
 </section> -->
 
 
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#toc').toc();
-    });
 
 
 

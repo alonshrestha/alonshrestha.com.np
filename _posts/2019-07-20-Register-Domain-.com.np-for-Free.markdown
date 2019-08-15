@@ -92,9 +92,8 @@ Secondary Name Server: ns02.000webhost.com
 
 ![](/assets/images/blog/2019-07-20/img7.png)
 
-```
-The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/).
-```
+{% include note.html content= "The above-used server name in the picture is of [cloudflare](https://www.cloudflare.com/)." %}
+
 
 #### **Step 8:** Administrative Contact
 
@@ -105,8 +104,9 @@ Fill the administrative contact form with valid data and submit it.
 Now submit your document eg: license, citizen card, passport and cover letter in .jpg format with less than 300Kb.
 
 ![](/assets/images/blog/2019-07-20/img9.png)
+    
+{% include callout.html heading=  "Sample of Cover Letter" %}
 
-#### Sample of cover letter
 
 	Date (eg:July 24, 2019)
 

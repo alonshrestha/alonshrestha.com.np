@@ -28,8 +28,6 @@ comments: true
     {% if page.summary %}
     <div class="summary">{{page.summary}}</div>
     {% endif %}
-<script src="/js/toc.js"></script>
-<div id="toc"></div>
     {{ content }}
 
 
@@ -57,9 +55,4 @@ comments: true
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('#toc').toc();
-    });
 
