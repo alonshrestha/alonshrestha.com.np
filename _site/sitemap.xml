@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/Blogging-with-Github-Pages-and-Jekyll/</loc>
-<lastmod>2019-06-27T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Register-Domain-.com.np-for-Free/</loc>
-<lastmod>2019-07-20T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Backup-and-restore-your-system-to-previous-state-with-SystemBack/</loc>
-<lastmod>2019-07-21T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Introduction-to-Virtualization-Beginners-Guide/</loc>
-<lastmod>2019-08-03T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Install-VirtualBox-in-Ubuntu-Step-to-Virtualization/</loc>
-<lastmod>2019-08-06T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/Install-VirtualBox-in-Windows-Step-to-virtualization/</loc>
-<lastmod>2019-08-07T00:00:00+05:45</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/I-Use-CloudFlare-For-My-Domain-Managemt/</loc>
-<lastmod>2019-08-09T00:00:00+05:45</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
